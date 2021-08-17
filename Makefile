@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := energy-meter
+PROJECT_NAME := energy-monitor
 
 include $(IDF_PATH)/make/project.mk

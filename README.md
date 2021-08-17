@@ -1,9 +1,9 @@
-# Energy Meter
-The goal of this project is creating of a DIY energy meter on a microcontroller and integrate it into a smart home system.
+# Energy Monitor
+The goal of this project is creating of a DIY energy monitor, based on a microcontroller, and integrate it into a smart home system.
 
 ## Features
-* Energy meter for a single phase or a three phase electric power system
-* High precision, comparable with commercial meters
+* Energy monitor for a single phase or a three phase electric power system
+* High precision, comparable with commercial power meters
 * Continuous monitoring and reporting of AC voltage, current and power
 * Integration with Home Assistant
 
